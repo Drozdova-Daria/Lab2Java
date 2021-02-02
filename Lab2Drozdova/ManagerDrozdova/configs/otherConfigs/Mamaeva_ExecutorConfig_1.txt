@@ -1,0 +1,2 @@
+ADDITIONAL_FILE_TABLE_NAME = configs\\otherConfigs\\table.txt
+ADDITIONAL_INFO_MODE = ENCODE
