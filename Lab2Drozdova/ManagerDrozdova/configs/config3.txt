@@ -1,0 +1,11 @@
+INPUT_FILE = input.txt
+OUTPUT_FILE = output.txt
+COUNT_WORKERS = 4
+WORKER1 = Reader
+WORKER2 = BisectingSubstitutionEncoder
+WORKER3 = BisectingSubstitutionEncoder
+WORKER4 = Writer
+CONFIG1 = configs\\myConfigs\\ReaderConfig.txt
+CONFIG2 = configs\\otherConfigs\\Mamaeva_ExecutorConfig_1.txt
+CONFIG3 = configs\\otherConfigs\\Mamaeva_ExecutorConfig_2.txt
+CONFIG4 = configs\\myConfigs\\WriterConfig.txt
